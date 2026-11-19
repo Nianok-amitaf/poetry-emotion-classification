@@ -176,6 +176,6 @@ Python · pandas · NumPy · scikit-learn · NLTK · SciPy · Matplotlib · Jupy
 Released under the [MIT License](LICENSE).
 
 ## 🙋 Author
-**<Your Name>** — [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+Konain Fatima — [GitHub](https://github.com/Nianok-amitaf) 
 
 *If you find this project useful, consider giving it a ⭐!*
