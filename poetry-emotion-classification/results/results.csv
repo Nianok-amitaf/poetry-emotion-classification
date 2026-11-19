@@ -1,7 +1,0 @@
-model,notebook,cv_accuracy,train_accuracy,val_accuracy,test_accuracy
-SVM (linear),01,0.4412,0.9880,0.4766,0.4074
-Logistic Regression,01,0.4052,0.8603,0.3738,0.3981
-Random Forest,01,0.3814,0.9940,0.3832,0.3981
-Multinomial NB,01,0.3153,0.7026,0.3178,0.3333
-KNN (SVD-200),01,0.3873,0.5928,0.4673,0.3241
-Logistic Regression (tuned),02,0.4691,,0.4579,0.3889
